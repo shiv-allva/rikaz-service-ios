@@ -1,4 +1,4 @@
-# rikaz-service-ios
+# Rikaz Service App
 
 # Privacy Policy
 in development
